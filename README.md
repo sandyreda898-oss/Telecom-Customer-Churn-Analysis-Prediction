@@ -52,16 +52,16 @@ Interactive filters help users explore customer segments and identify potential 
 The project includes four interactive Power BI pages designed to analyze customer churn, understand customer behavior, and identify key churn drivers.
 
 ### 1. Home
-![Home Dashboard](Dashboard_Screenshots/Home.png)
+![Home Dashboard](Dashboard_Screenshots/Home_.png)
 
 ### 2. Customer Churn Overview
-![Customer Churn Overview](Dashboard_Screenshots/Customer_Churn_Overview.png)
+![Customer Churn Overview](Dashboard_Screenshots/Customer_Churn_Overview_.png)
 
 ### 3. Customer Behavior Analysis
-![Customer Behavior Analysis](Dashboard_Screenshots/Customer_Behavior_Analysis.png)
+![Customer Behavior Analysis](Dashboard_Screenshots/Customer_Behavior_Analysis_.png)
 
 ### 4. Churn Drivers & Insights
-![Churn Drivers and Insights](Dashboard_Screenshots/Churn_Drivers_Insights.png)
+![Churn Drivers and Insights](Dashboard_Screenshots/Churn_Drivers_Insights_.png)
 ## 💡 Business Value
 
 This project demonstrates an end-to-end analytical workflow, transforming customer data into meaningful insights and predictive outputs. It showcases practical skills in SQL, Python, machine learning, data visualization, and business intelligence while supporting better-informed customer retention decisions.
