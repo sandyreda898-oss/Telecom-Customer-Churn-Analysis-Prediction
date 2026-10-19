@@ -35,7 +35,7 @@ The model correctly identified 203 churn cases out of 347 actual churn cases, wh
 
 **Prediction Output:** Predictions were generated for a target dataset containing 6,007 customers, with 1,633 predicted churners. Results were exported to `Predictions.csv`.
 
-##Power BI Dashboard
+## Power BI Dashboard
 
 The interactive dashboard includes four pages:
 
@@ -52,16 +52,17 @@ Interactive filters help users explore customer segments and identify potential 
 The project includes four interactive Power BI pages designed to analyze customer churn, understand customer behavior, and identify key churn drivers.
 
 ### 1. Home
-![Home Dashboard](Dashboard_Screenshots/Home_.png)
+![Home Dashboard](Dashboard_Screenshots/Home_.jpg)
 
 ### 2. Customer Churn Overview
-![Customer Churn Overview](Dashboard_Screenshots/Customer_Churn_Overview_.png)
+![Customer Churn Overview](Dashboard_Screenshots/Customer%20Churn%20Overview_.jpg)
 
 ### 3. Customer Behavior Analysis
-![Customer Behavior Analysis](Dashboard_Screenshots/Customer_Behavior_Analysis_.png)
+![Customer Behavior Analysis](Dashboard_Screenshots/Customer%20Behavior%20Analysis_.jpg)
 
 ### 4. Churn Drivers & Insights
-![Churn Drivers and Insights](Dashboard_Screenshots/Churn_Drivers_Insights_.png)
+![Churn Drivers & Insights](Dashboard_Screenshots/Churn%20Drivers%20%26%20Insights_.jpg)
+
 ## 💡 Business Value
 
 This project demonstrates an end-to-end analytical workflow, transforming customer data into meaningful insights and predictive outputs. It showcases practical skills in SQL, Python, machine learning, data visualization, and business intelligence while supporting better-informed customer retention decisions.
